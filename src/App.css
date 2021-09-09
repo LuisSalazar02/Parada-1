@@ -62,7 +62,6 @@ body {
 
 h1 {
   font-family: "Patrick Hand";
-  opacity: 0.5;
 }
 
 h2 {
@@ -86,12 +85,12 @@ h2 {
 
 @keyframes op {
   0% {
-    opacity: 0%;
+    opacity: 0;
   }
   50% {
-    opacity: 100%;
+    opacity: 1;
   }
   100% {
-    opacity: 0%;
+    opacity: 0;
   }
 }
