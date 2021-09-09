@@ -6,7 +6,7 @@ import image from "./imagenes/couple1.jpeg";
 
 var flag = false;
 
- class App extends Component {
+class App extends Component {
   
   handleChange(){
     if(flag == false){
